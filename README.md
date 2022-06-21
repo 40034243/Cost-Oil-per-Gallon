@@ -4,7 +4,7 @@
 
 No political games. Straight facts. 
 
-**U.S. Energy Information Administration** says this is the breakdown of one gallon of petrol. 
-Using its API, you can find how much it costs to bring one gallon of oil to its final stage.
+**U.S. Energy Information Administration** says this is the breakdown of one gallon of gas. 
+Using the EIA's API, it's possible to find out how much one gallon of oil costs the corps.
 
 Compare that "wholesale" price to how much you pay at the pump. 
